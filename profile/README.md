@@ -1,6 +1,6 @@
 ## Hello, welcome to Chrisplayzwii's beta wii content collection!
 <br>
-the main purpose of this github is to cleanup beta wii information on the internet, and put all the content into one place, so beta content can be easy to find with sources provided!
+<p>the main purpose of this github is to cleanup beta wii information on the internet, and put all the content into one place, so beta content can be easy to find with sources provided!</p>
 <br>
 <h1>Check out the repositories of the content below!</h1>
 <br>
