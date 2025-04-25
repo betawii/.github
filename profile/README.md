@@ -1,6 +1,6 @@
 ## Hello, welcome to Chrisplayzwii's beta wii content collection!
 <br>
-<p>The purpose of thie beta wii content collection, is to collect all wii beta content into one place! <br> no, fake content will never be put here, i check each source to ensure it was from before nov 19, 2006 (wiis release date) and if it was from a official nintendo event or website.</p>
+<p>The purpose of this beta wii content collection, is to collect all wii beta content into one place! <br> no, fake content will never be put here, i check each source to ensure it was from before nov 19, 2006 (wiis release date) and if it was from a official nintendo event or website.</p>
 <br>
 <h2>Check out the repositories of the content below!</h2>
 <br>
