@@ -18,7 +18,8 @@
 <br>
 <h2>Copyright belongs to nintendo, i do not own any of this content, im just collecting it so it doesnt become lost media.</h2>
 <br>
-<i>note: all repos are from 1/8/26 because i reuploaded everything to ensure everything is up to date with my local files before i finish going through the videos/photos.</i>
+<i>note: all repos are from 1/8/26 because i reuploaded everything to ensure everything is up to date with my local files before i finish going through the videos/photos, earlist commit is Feb 7th, 2025</i>
+
 
 
 
